@@ -1,0 +1,414 @@
+.bg_header{
+    background: #222831;
+    box-shadow: 5px 15px 25px 10px #fff !important;
+    padding: 10px 20px;
+}
+
+.drop_she {
+    background: none !important;
+    border: none !important;
+    color: #eee;
+    margin-top: 5px;
+}
+.nav-link{
+    color: #eee !important;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin: 0px 5px ;
+    text-align: center;
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+    background: #222831;
+color: #eee !important;
+
+}
+.dropdown-item{
+    color: #eee !important;
+    text-align: center;
+}
+
+.dropdown{
+    text-align: center;
+}
+
+
+.what_is_wif_main{
+    background: #222831;
+    padding: 30px 10px;
+    border-bottom: 1px dotted #eee !important;
+}
+
+.wh_head {
+    font-size: 60px !important;
+    font-weight: 500;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: #eee;
+    text-align: center;
+}
+.wiff{
+    display: inline-block;
+    position: relative;
+    padding: 0px 30px;
+    border: 2px solid #eee;
+    border-radius: 50px;
+    color: #00adb5;
+    transform: rotate(358deg);
+    -webkit-transform: rotate(358deg);
+    box-shadow: 5px 3px 0px 0px var(--bde-palette-color-2);
+    -webkit-box-shadow: 5px 3px 0px 0px #00adb5;
+}
+
+.wif_para {
+    color: #eee;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration:line-through;
+    text-decoration-color: red;
+}
+
+.bg_text {
+    background: #fcb900 !important;
+}
+
+.whatis_wif {
+    background: #393E46;
+    padding: 40px 10px;
+}
+
+.what_head {
+    font-size: 60px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    color: #eee;
+}
+
+.fr_be{
+    position: relative !important;
+}
+
+.fr_be::after{
+    position: absolute !important;
+    content: "";
+    bottom: 0px  !important;
+    left: 0px !important;
+    background-color: red;
+    height: 2px ;
+    width: 100%;
+}
+
+.befrfr {
+    background: #222831;
+    padding: 60px 10px;
+
+}
+
+.befr_head {
+    color: #eee;
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.wifthe_best{
+    background: #393E46;
+    padding: 60px 10px;
+}
+
+.dox_box {
+    padding: 20px;
+    background: #222831;
+    border-radius: 10px ;
+}
+.dog_img{
+    width: 80px;
+    height: 80px ;
+    margin: auto;
+}
+
+.dox_box h5{
+    font-size: 22px ;
+    margin-bottom: 1rem;
+    /* margin-top: 10px; */
+    color: #eee;
+    text-align: center;
+    font-family: sans-serif;
+}
+.dox_box h1{
+    font-size: 32px ;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    /* margin-top: 10px; */
+    color: #eee;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.about_best {
+        background-color: rgba(255, 165, 0, 0.2);
+        border-radius: 4px;
+        font-size: 0.875em;
+        font-weight: 800;
+        text-transform: uppercase;
+        display: inline-block;
+        margin-top: 12px;
+        letter-spacing: 0.15em;
+        color: #eee;
+        padding: 0.55em;
+        line-height: 1;
+}
+
+.bg_check{
+    /* width: 20px; */
+    color: white;
+    /* background: white; */
+    background-color: #27A216;
+    padding: 10px;
+    border-radius: 5px !important;
+    /* padding: 10px; */
+}
+.cross_mark{
+    /* width: 20px; */
+    color: white;
+    /* background: white; */
+    background-color: #000;
+    padding: 10px;
+    border-radius: 5px !important;
+    /* padding: 10px; */
+}
+.breakdance .bde-pricing-table-24-318 .bde-pricing-table__features-item--included .bde-pricing-table__features-icon {
+    background-color: #27A216 !important;
+    color: #fff !important;
+}
+
+.best_para {
+    font-size: 1em;
+    color: #eee;
+    margin-bottom: 16px;
+}
+
+.buy_wif_btn {
+    color: #eee;
+    padding: 10px 35px;
+    border-radius: 9999px;
+    border: 1px solid #eee;
+    background-color: transparent;
+
+}
+.brd_clr{
+border: 3px solid #00adb5;
+
+}
+
+.reviews {
+    color: #eee;
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-align: center;
+    margin: 1.3rem 0;
+}
+
+.revis{
+    background-color: #222831;
+    padding: 20px ;
+    border-radius: 10px ;
+    height: 300px !important;
+}
+
+.name_as {
+
+    color: #eee;
+    text-transform: uppercase;
+    font-size:1rem;
+    text-align: end;
+    margin: 1rem 0;
+}
+.wifthe_best.swiper {
+    width: 300px;
+    height: 300px;
+  }
+  .swiper-slide img {
+ width: 100% !important;
+  }
+
+  .wif_genaot {
+    background: #222831;
+    padding: 50px 10px ;
+  }
+
+  .gat_gen {
+    color: #eee;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .footer {
+    background: #222831;
+    padding: 20px 10px;
+  }
+  .ss span{
+
+    color: #00adb5;
+  }
+
+  .claim_btn {
+    background: #00adb5;
+    padding: 10px 50px;
+    color: #eee;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 1.8rem;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-align: center;
+    border: none;
+    width: 200px ;
+  }
+
+  .listen_part {
+    background: #222831;
+    padding: 40px 10px;
+  }
+
+  .wifff_para {
+    color: #eee;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 1rem 0;
+    text-align: center;
+  }
+
+  .bras {
+    border: 1px dotted #eee;
+  }
+
+  .crput{
+    height: 350px;
+  }
+
+
+  .coonect_Wallate_btn {
+    background-color: #00adb5;
+    padding: 10px 20px;
+    color: #eee;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px ;
+    text-align: center !important;
+    width: 100% !important;
+}
+
+@media  screen and (max-width:600px){
+
+    .claim-container {
+        width: 100% !important;
+        text-align: center !important;
+    }
+
+    .befr_head {
+        font-size: 32px !important;
+    }
+    .reviews{
+        font-size: 1.6rem !important;
+    }
+    .gat_gen{
+        font-size: 32px !important;
+    } 
+
+    .navbar-toggler{
+        background: #000 !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    .mf{
+        color: white !important;
+    }
+    .claim_btn {
+        padding: 10px 40px !important;
+        width: 100% !important;
+        text-align: center !important;
+    }
+    .sm_fs{
+        font-size: 48px !important ;
+    }
+
+    .hea {
+        justify-content: space-between !important;
+    }
+    
+    .coonect_Wallate_btn {
+    	justify-content: center; /* Horizontally center the content */
+	}
+
+  
+}
+
+.dropdown-item:hover{
+    background: transparent !important;
+}
+
+.tokne_dists {
+    padding: 80px 10px !important;
+}
+.coonect_Wallate_btn {
+    background-color: #00adb5;
+    padding: 10px 20px;
+    color: #eee;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px ;
+    text-align: center;
+
+}
+
+@keyframes scroll {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .scrolling-wrapper {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .scrolling-content {
+    display: flex;
+    animation: scroll 20s linear infinite;
+  }
+  
+  .scrolling-content img {
+    width: 50%; /* ou une autre largeur selon votre besoin */
+    flex-shrink: 0; /* empêche les images de se compresser */
+  }
+
+  .css-slider {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory; /* Support for scroll snap */
+  }
+  
+  .slide {
+    flex: 0 0 auto;
+    width: 100%; /* Assurez-vous que la largeur correspond à la largeur du conteneur du slider */
+    height: 300px; /* ou toute autre hauteur */
+    background-size: cover;
+    background-position: center;
+    scroll-snap-align: start; /* Support for scroll snap */
+  }
+  
